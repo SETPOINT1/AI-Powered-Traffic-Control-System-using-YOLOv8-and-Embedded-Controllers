@@ -9,6 +9,8 @@ An intelligent, adaptive traffic signal control system that uses **Computer Visi
 
 ## Overview
 
+![Mobile   Web Application](https://github.com/user-attachments/assets/eb56e642-a0c5-4aaf-a2df-e51a51edb582)
+
 Traditional traffic lights use fixed timers, leading to unnecessary waiting times when lanes are empty. This project solves that problem by using **YOLOv8** to detect vehicle density and dynamically adjust green light duration.
 
 The system operates on a **Master-Slave Architecture**:
